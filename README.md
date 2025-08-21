@@ -16,11 +16,6 @@ I'm 21 years old and currently a student of Systems Analysis and Development. I'
 
 ---
 
---
-🖼️ Custom image:
-To add an image to the bottom right corner, just insert the image link below when you want:
-
 <div align="right">
   <img src="https://cdn-icons-png.flaticon.com/512/924/924514.png" width="120"/>
 </div>
---

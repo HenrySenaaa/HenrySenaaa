@@ -1,5 +1,4 @@
-# HenrySena
-# 👋 Hello, I'm Henry Kelvin dos Santos Sena
+# 👋 Hello Everyone, I'm Henry Kelvin dos Santos Sena
 
 I'm 21 years old and currently a student of Systems Analysis and Development. I'm passionate about programming and I strive every day to deepen and improve my skills.
 
@@ -17,20 +16,11 @@ I'm 21 years old and currently a student of Systems Analysis and Development. I'
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HenrySenaaa&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenrySenaaa&layout=compact&theme=tokyonight"/>
-</div>
-
----
-
-<!--
+--
 🖼️ Custom image:
 To add an image to the bottom right corner, just insert the image link below when you want:
 
 <div align="right">
-  <img src="YOUR_IMAGE_URL" width="120"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/924/924514.png" width="120"/>
 </div>
--->
+--

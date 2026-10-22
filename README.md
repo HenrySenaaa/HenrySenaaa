@@ -99,12 +99,12 @@ Projetos em **JavaScript puro** com foco em manipulação do DOM, requisições 
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://henrysenaaa.github.io/catalogo-anime/"><img src="https://raw.githubusercontent.com/HenrySenaaa/catalogo-anime/main/docs/preview.png" alt="KytizDex" /></a>
+<a href="https://henrysenaaa.github.io/kytizdex/"><img src="https://raw.githubusercontent.com/HenrySenaaa/kytizdex/main/docs/preview.png" alt="KytizDex" /></a>
 
 **🎌 KytizDex: Catálogo de Animes**<br/>
 Busca em tempo real com debounce, filtros por gênero e modal de detalhes consumindo a API Kitsu.<br/>
 <sub>fetch · AbortController · API REST</sub><br/>
-<a href="https://henrysenaaa.github.io/catalogo-anime/">▶ Demo</a> · <a href="https://github.com/HenrySenaaa/catalogo-anime">Código</a>
+<a href="https://henrysenaaa.github.io/kytizdex/">▶ Demo</a> · <a href="https://github.com/HenrySenaaa/kytizdex">Código</a>
 </td>
 <td width="50%" valign="top">
 <a href="https://henrysenaaa.github.io/dashboard-financas/"><img src="https://raw.githubusercontent.com/HenrySenaaa/dashboard-financas/main/docs/preview.png" alt="Dashboard de Finanças" /></a>
